@@ -141,7 +141,7 @@ img {
 }
 
 .nav-list a:hover {
-  background-color: black;
+  background-color: #303841;
 }
 
 /* Welcome section */
@@ -178,8 +178,9 @@ height: 300px;
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto 6rem auto;
-  border-bottom: 0.2rem solid var(--main-white);
-  color: #000 ;
+  border-bottom: 0.2rem solid ;
+  
+  color: #303841 ;
   
 }
 .phrase{
