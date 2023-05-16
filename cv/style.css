@@ -141,7 +141,7 @@ img {
 }
 
 .nav-list a:hover {
-  background: black;
+  background-color: black;
 }
 
 /* Welcome section */
@@ -257,7 +257,7 @@ height: 300px;
 }
 
 .btn-show-all:hover {
-  background: #DEB887;
+  background-color: #DEB887;
 }
 
 .btn-show-all:hover > i {
